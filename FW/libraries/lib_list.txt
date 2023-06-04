@@ -1,0 +1,7 @@
+Adafruit BMP280	2.0.1
+DallasTemperature 3.8.1
+BH1750FVI 1.1.1
+iarduino_RTC 1.3.4
+RF24 1.3.4
+OneWire 2.3.5
+SparkFun HTU21D 1.1.3
